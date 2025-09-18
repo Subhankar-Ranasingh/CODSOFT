@@ -1,0 +1,7 @@
+📊 Linear Regression Results:
+MSE: 1.6864
+R²: 0.0893
+
+🌳 Random Forest Results:
+MSE: 1.2721
+R²: 0.3131
